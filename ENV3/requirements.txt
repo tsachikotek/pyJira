@@ -6,7 +6,7 @@ cryptography==2.7
 defusedxml==0.6.0
 docxtpl==0.6.3
 idna==2.8
-Jinja2==2.10.1
+Jinja2==2.11.3
 jira==2.0.0
 lxml==4.3.4
 MarkupSafe==1.1.1
